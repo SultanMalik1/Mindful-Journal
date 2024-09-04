@@ -46,11 +46,9 @@ Mindful Journal is a full-stack web application that allows users to register, l
 
 ### Frontend Setup
   1. Navigate to the frontend directory:
-
     ```bash
     cd ../frontend
   2. Install the required dependencies:
-
     ```bash
     npm install
 
